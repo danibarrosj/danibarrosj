@@ -24,4 +24,7 @@ I started my programming journey in January 2025, and I am currently learning Py
 💻 Coding & Tech Exploration<br>
 <br>
 
-### **🔹Languages**: <br>Spanish (Native)<br> English (Native) <br> Japanese (Intermediate)
+### **🔹Languages**: <br> 
+Spanish (Native)<br>
+English (Native) <br> 
+Japanese (Intermediate)
