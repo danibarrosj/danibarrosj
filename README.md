@@ -1,16 +1,25 @@
-## Hi there 👋
+Daniel J. Barros | Tech & Business Enthusiast
 
-<!--
-**danibarrosj/danibarrosj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Bridgeport, CT | 📧 danibarrosj@outlook.com
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Daniel J. Barros, a dedicated professional with a strong background in computer science, business administration, and IT support. My journey started in the United States Marine Corps, where I developed leadership, operational management, and technical troubleshooting skills. Now, I’m expanding my expertise in software development, cybersecurity, and system administration as I pursue my Master’s in Computer Science & Information Technology.
+
+I started my programming journey in January 2025, and I am currently learning Python, C++, and SQL in school. Additionally, I am incorporating self-learning in HTML, CSS, and JavaScript to expand my web development skills. 
+
+
+🎓 Education
+
+📚 Master of Computer Science & Information Technology (Exp. Dec 2025) - Sacred Heart University
+📚 MBA (Management & HR) (GPA: 3.86, Dec 2024) - Sacred Heart University
+📚 B.S. in Business Administration (GPA: 3.65, Dec 2023) - University of Maryland Global Campus Japan
+
+🎯 Hobbies & Interests
+
+⚽ Sports
+📚 Learning new things
+🌍 Exploring new languages & cultures
+💻 Coding & Tech Exploration
+
+🔹 Languages: Spanish (Native) 🇪🇸 | English (Native) 🇺🇸 | Japanese (Intermediate) 🇯🇵
