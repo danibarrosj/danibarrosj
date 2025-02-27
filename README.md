@@ -25,6 +25,9 @@ I started my programming journey in January 2025, and I am currently learning Py
 <br>
 
 ### **🔹Languages**: <br> 
-Spanish (Native)<br>
-English (Native) <br> 
-Japanese (Intermediate)
+Spanish (_Native_)<br>
+English (_Native_) <br> 
+Japanese (_Intermediate_)
+
+
+![Snake animation](https://github.com/danibarros/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
