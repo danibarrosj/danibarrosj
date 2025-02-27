@@ -1,7 +1,7 @@
 # **Daniel J. Barros | Tech & Business Enthusiast** <br>
 _📍 06610 | 📧 danibarrosj@outlook.com_
 
-🚀 **About Me**
+### 🚀 **About Me**
 
 Hello! I'm Daniel J. Barros, a dedicated professional with a strong background in computer science, business administration, and IT support. My journey started in the United States Marine Corps, where I developed leadership, operational management, and technical troubleshooting skills. Now, I’m expanding my expertise in software development, cybersecurity, and system administration as I pursue my Master’s in Computer Science & Information Technology.
 
