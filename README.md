@@ -30,4 +30,4 @@ English (_Native_) <br>
 Japanese (_Intermediate_)
 
 
-![Snake animation](https://github.com/danibarros/danibarrosj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danibarrosj/danibarrosj/blob/output/github-contribution-grid-snake.svg)
