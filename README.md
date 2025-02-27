@@ -30,4 +30,4 @@ English (_Native_) <br>
 Japanese (_Intermediate_)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danibarrosj=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danibarrosj=danibarrosj)](https://github.com/danibarrosj/github-readme-stats)
