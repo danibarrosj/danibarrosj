@@ -1,6 +1,6 @@
 Daniel J. Barros | Tech & Business Enthusiast
 
-📍 Bridgeport, CT | 📧 danibarrosj@outlook.com
+📍 06610 | 📧 danibarrosj@outlook.com
 
 🚀 About Me
 
@@ -25,4 +25,4 @@ I started my programming journey in January 2025, and I am currently learning Py
 🌍 Exploring new languages & cultures<br>
 💻 Coding & Tech Exploration<br>
 
-🔹 Languages: Spanish (Native) 🇪🇸 | English (Native) 🇺🇸 | Japanese (Intermediate) 🇯🇵
+🔹 Languages: Spanish (Native)<br> English (Native) <br> Japanese (Intermediate)
