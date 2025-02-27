@@ -2,7 +2,7 @@ Daniel J. Barros | Tech & Business Enthusiast
 
 📍 06610 | 📧 danibarrosj@outlook.com
 
-🚀 About Me
+🚀 **About Me**
 
 Hello! I'm Daniel J. Barros, a dedicated professional with a strong background in computer science, business administration, and IT support. My journey started in the United States Marine Corps, where I developed leadership, operational management, and technical troubleshooting skills. Now, I’m expanding my expertise in software development, cybersecurity, and system administration as I pursue my Master’s in Computer Science & Information Technology.
 
@@ -11,11 +11,11 @@ I started my programming journey in January 2025, and I am currently learning Py
 <br>
 <br>
 
-🎓 Education
+🎓 **Education**
 
-📚 Master of Computer Science & Information Technology (Exp. Dec 2025) - Sacred Heart University<br>
-📚 MBA (Management & HR) (GPA: 3.86, Dec 2024) - Sacred Heart University<br>
-📚 B.S. in Business Administration (GPA: 3.65, Dec 2023) - University of Maryland Global Campus Japan<br>
+📚 Master of Computer Science & Information Technology (Exp. Dec 2025) - _Sacred Heart University_<br>
+📚 MBA (Management & HR) (GPA: 3.86, Dec 2024) - _Sacred Heart University_<br>
+📚 B.S. in Business Administration (GPA: 3.65, Dec 2023) - _University of Maryland Global Campus Japan_<br>
 <br>
 <br>
 **🎯 Hobbies & Interests**
@@ -25,4 +25,4 @@ I started my programming journey in January 2025, and I am currently learning Py
 🌍 Exploring new languages & cultures<br>
 💻 Coding & Tech Exploration<br>
 
-🔹 Languages: Spanish (Native)<br> English (Native) <br> Japanese (Intermediate)
+🔹 **Languages**: <br>Spanish (Native)<br> English (Native) <br> Japanese (Intermediate)
