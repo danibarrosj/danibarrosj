@@ -1,4 +1,4 @@
-Daniel J. Barros | Tech & Business Enthusiast
+                                                                                                          Daniel J. Barros | Tech & Business Enthusiast
 
 📍 Bridgeport, CT | 📧 danibarrosj@outlook.com
 
