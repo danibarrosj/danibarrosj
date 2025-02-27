@@ -11,15 +11,15 @@ I started my programming journey in January 2025, and I am currently learning Py
 
 🎓 Education
 
-📚 Master of Computer Science & Information Technology (Exp. Dec 2025) - Sacred Heart University
-📚 MBA (Management & HR) (GPA: 3.86, Dec 2024) - Sacred Heart University
-📚 B.S. in Business Administration (GPA: 3.65, Dec 2023) - University of Maryland Global Campus Japan
+📚 Master of Computer Science & Information Technology (Exp. Dec 2025) - Sacred Heart University<br>
+📚 MBA (Management & HR) (GPA: 3.86, Dec 2024) - Sacred Heart University<br>
+📚 B.S. in Business Administration (GPA: 3.65, Dec 2023) - University of Maryland Global Campus Japan<br>
 
 **🎯 Hobbies & Interests**
 
-⚽ Sports
-📚 Learning new things
-🌍 Exploring new languages & cultures
-💻 Coding & Tech Exploration**
+⚽ Sports<br>
+📚 Learning new things<br>
+🌍 Exploring new languages & cultures<br>
+💻 Coding & Tech Exploration<br>
 
 🔹 Languages: Spanish (Native) 🇪🇸 | English (Native) 🇺🇸 | Japanese (Intermediate) 🇯🇵
