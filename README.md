@@ -29,5 +29,4 @@ Spanish (_Native_)<br>
 English (_Native_) <br> 
 Japanese (_Intermediate_)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidanibarrosj)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danibarrosj)](https://github.com/danibarrosj/github-readme-stats)
