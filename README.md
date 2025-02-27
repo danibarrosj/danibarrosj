@@ -18,9 +18,6 @@ I started my programming journey in January 2025, and I am currently learning Py
 📚 B.S. in Business Administration (GPA: 3.65, Dec 2023) - University of Maryland Global Campus Japan<br>
 <br>
 <br>
-<br>
-<br>
-
 **🎯 Hobbies & Interests**
 
 ⚽ Sports<br>
