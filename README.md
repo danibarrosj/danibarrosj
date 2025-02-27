@@ -1,4 +1,4 @@
-**#Daniel J. Barros | Tech & Business Enthusiast** (h1)<br>
+#Daniel J. Barros | Tech & Business Enthusiast (h1)<br>
 _📍 06610 | 📧 danibarrosj@outlook.com_
 
 🚀 **About Me**
